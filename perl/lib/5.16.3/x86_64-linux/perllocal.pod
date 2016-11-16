@@ -1,0 +1,242 @@
+=head2 Thu Nov 10 16:00:49 2016: C<Module> L<App::cpanminus|App::cpanminus>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7042>
+
+=item *
+
+C<EXE_FILES: bin/cpanm>
+
+=back
+
+=head2 Thu Nov 10 16:01:19 2016: C<Module> L<Net::SSLeay|Net::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.78>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:01:20 2016: C<Module> L<Mozilla::CA|Mozilla::CA>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20160104>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:02:48 2016: C<Module> L<IO::Socket::SSL|IO::Socket::SSL>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.038>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:02:50 2016: C<Module> L<Encode::Locale|Encode::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:03:47 2016: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.10>
+
+=item *
+
+C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
+
+=back
+
+=head2 Thu Nov 10 16:03:49 2016: C<Module> L<Mojo::Weixin|Mojo::Weixin>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.2.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:05:05 2016: C<Module> L<Mojo::Webqq|Mojo::Webqq>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.8.7>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:05:31 2016: C<Module> L<Parse::IRC|Parse::IRC>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:05:32 2016: C<Module> L<Mojo::IRC::Server::Chinese|Mojo::IRC::Server::Chinese>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7.8>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Nov 10 16:05:45 2016: C<Module> L<Mojo::SMTP::Client|Mojo::SMTP::Client>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/perl/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
