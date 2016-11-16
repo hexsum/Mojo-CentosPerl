@@ -1,6 +1,8 @@
 # Mojo-CentosPerl
+
 在Centos-6.5-x86_64系统上编译打包而成,包含Perl-5.16+cpanm+Mojo-Webqq+Mojo-Weixin的完整Linux运行环境
-测试可以在Centos 6.5/6.7/7.0 上正常运行
+
+测试可以在Centos 6.5/6.7/7.0 上正常运行，如有问题请反馈给作者
 
 ##安装方法：
 
