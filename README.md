@@ -19,11 +19,19 @@
 
 2. 解压到指定路径（会把perl安装到 /usr/local/perl 目录下）
    
-    对于ZIP包 
+   对于github下载的ZIP包 
 
-        $ unzip Mojo-CentosPerl.zip -d /usr/local/  #路径不能够更改，请确保有相关权限
+        $ unzip Mojo-CentosPerl.zip
+        
+        $ cd Mojo-CentosPerl-master/
+        
+        $ mv perl/ /usr/local/                      #路径不能够更改，请确保有相关权限
 
-    对于tar.gz包
+    对于腾讯云存储下载的ZIP包
+    
+        $ unzip Mojo-CentosPerl.zip -d /usr/local/  #路径不能够更改，请确保有相关权限    
+        
+    对于腾讯云存储下载的tar.gz包
 
         $ tar zxf Mojo-CentosPerl.tar.gz -C /usr/local #路径不能够更改，请确保有相关权限
 
