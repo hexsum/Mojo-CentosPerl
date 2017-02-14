@@ -12,9 +12,9 @@
 
     如果github下载较慢，可以尝试使用腾讯云存储的文件下载地址（可能较旧）
 
-        $ wget http://share-10066126.cos.myqcloud.com/Mojo-CentosPerl-20170208.zip -O Mojo-CentosPerl.zip
+        $ wget http://share-10066126.cos.myqcloud.com/Mojo-CentosPerl-20170214.zip -O Mojo-CentosPerl.zip
         
-        $ wget http://share-10066126.cos.myqcloud.com/Mojo-CentosPerl-20170208.tar.gz -O Mojo-CentosPerl.tar.gz
+        $ wget http://share-10066126.cos.myqcloud.com/Mojo-CentosPerl-20170214.tar.gz -O Mojo-CentosPerl.tar.gz
         
 
 2. 解压到指定路径（会把perl安装到 /usr/local/perl 目录下）
